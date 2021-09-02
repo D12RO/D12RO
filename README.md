@@ -9,3 +9,7 @@
 <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> You can see some of my projects on <a href="https://shop.globalscripts.ro/portofolio/" rel="nofollow">my portfolio</a></li>
 </ul>
 
+<p align="left">
+  <a href="https://shop.globalscripts.ro/portofolio/" rel="nofollow"><img alt="Portfolio" title="Portfolio" src="https://camo.githubusercontent.com/5514c202011413029596ac96cdfe4a7fa4d4f9f3614206ae58f6f72056d24e11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f64696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&amp;logo=koding&amp;logoColor=white" style="max-width:100%;"></a>
+    <a href="https://www.youtube.com/channel/UCOZ257Pb8qEu-Xs0pcJlXIA" rel="nofollow"><img alt="Youtube" title="Youtube Channel" src="https://camo.githubusercontent.com/a302a8a050593de8b83ff69badf795ac5cd847a2aaf98332fe5c25b19cd2308d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b73253230746f2532306672656525323073747566662d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f766572616c6c73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a>
+</p>
