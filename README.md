@@ -6,7 +6,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I'm a full stack web developer</li>
 <li><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> I'm a self-taught UI designer</li>
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I'm a highschool student</li>
-<li></li>
+<li><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">🛒</g-emoji>Do you want to work with me or buy an available product ? Create an account on my site and open a ticket. I will answer as soon as possible. </li>
 <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> You can see some of my projects on: </li>
 </ul>
 
