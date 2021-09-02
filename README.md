@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="Devices-pana.svg" data-canonical-src="Devices-pana.svg" style="max-width:50%;">
+<center><img width="50%" height="auto" src="Devices-pana.svg" data-canonical-src="Devices-pana.svg" style="max-width:50%;"></center>
 
 - 👋 Hi, I’m @D12RO
 - 👀 I’m interested in ...
