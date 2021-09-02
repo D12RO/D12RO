@@ -6,6 +6,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I'm a full stack web developer</li>
 <li><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> I'm a self-taught UI designer</li>
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I'm a highschool student</li>
+<li></li>
 <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> You can see some of my projects on: </li>
 </ul>
 
@@ -17,5 +18,5 @@
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCOZ257Pb8qEu-Xs0pcJlXIA" rel="nofollow"><img alt="Youtube" title="Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a>
-    <a href="https://www.youtube.com/channel/UCOZ257Pb8qEu-Xs0pcJlXIA" rel="nofollow"><img alt="Youtube" title="Youtube Channel" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width:100%;"></a>
+    <a href="https://discord.gg/mpdSQKr2MM" rel="nofollow"><img alt="Youtube" title="Youtube Channel" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width:100%;"></a>
 </p>
